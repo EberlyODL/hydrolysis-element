@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # \<hydrolysis-element\>
+=======
+# \<condensation-element\>
+>>>>>>> c549360d6a6f9d27bc5256c4304f1660c7ab135f
 
 
 

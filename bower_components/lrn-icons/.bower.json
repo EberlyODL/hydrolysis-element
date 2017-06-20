@@ -14,6 +14,7 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "homepage": "https://github.com/LRNWebComponents/lrn-icons",
+<<<<<<< HEAD
   "version": "1.0.12",
   "_release": "1.0.12",
   "_resolution": {
@@ -25,4 +26,16 @@
   "_target": "^1.0.12",
   "_originalSource": "https://github.com/LRNWebComponents/lrn-icons.git",
   "_direct": true
+=======
+  "version": "1.0.10",
+  "_release": "1.0.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.10",
+    "commit": "a4b3279967b30dcaf33094128b883babdfcbb5b8"
+  },
+  "_source": "https://github.com/LRNWebComponents/lrn-icons.git",
+  "_target": "^1.0.5",
+  "_originalSource": "LRNWebComponents/lrn-icons"
+>>>>>>> c549360d6a6f9d27bc5256c4304f1660c7ab135f
 }
