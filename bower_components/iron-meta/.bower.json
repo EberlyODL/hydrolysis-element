@@ -27,24 +27,14 @@
   },
   "main": "iron-meta.html",
   "ignore": [],
-<<<<<<< HEAD
-  "homepage": "https://github.com/PolymerElements/iron-meta",
-=======
   "homepage": "https://github.com/polymerelements/iron-meta",
->>>>>>> c549360d6a6f9d27bc5256c4304f1660c7ab135f
   "_release": "1.1.3",
   "_resolution": {
     "type": "version",
     "tag": "v1.1.3",
     "commit": "ec0afd727a0af36509264a78b691484123dc7bf6"
   },
-<<<<<<< HEAD
-  "_source": "https://github.com/PolymerElements/iron-meta.git",
-  "_target": "^1.0.0",
-  "_originalSource": "PolymerElements/iron-meta"
-=======
   "_source": "https://github.com/polymerelements/iron-meta.git",
   "_target": "^1.0.0",
   "_originalSource": "polymerelements/iron-meta"
->>>>>>> c549360d6a6f9d27bc5256c4304f1660c7ab135f
 }

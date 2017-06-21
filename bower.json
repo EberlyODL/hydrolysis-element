@@ -1,18 +1,10 @@
 {
-<<<<<<< HEAD
-  "name": "hydrolysis-element",
-  "main": "hydrolysis-element.html",
-  "dependencies": {
-    "polymer": "Polymer/polymer#^1.9.0",
-    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
-    "lrn-icons": "https://github.com/LRNWebComponents/lrn-icons.git#^1.0.12"
-=======
   "name": "condensation-element",
   "main": "condensation-element.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.9.0",
-    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2"
->>>>>>> c549360d6a6f9d27bc5256c4304f1660c7ab135f
+    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
+    "greensock-cdn": "https://github.com/bterp-web/greensock.git"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
