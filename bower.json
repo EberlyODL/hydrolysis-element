@@ -1,6 +1,6 @@
 {
-  "name": "condensation-element",
-  "main": "condensation-element.html",
+  "name": "hydrolysis-element",
+  "main": "hydrolysis-element.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.9.0",
     "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
